@@ -1,2 +1,2 @@
-# ejercicio6
+# Ejercicio6
 ## Adrian Orantes
